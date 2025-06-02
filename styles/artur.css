@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Castoro+Titling&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto", sans-serif;
+    color: #333333;
+    background-color: #F9F8FA;
+    line-height: 1.6;
+}
